@@ -35,3 +35,4 @@ The repository contains separate Markdown files for each training day, detailing
 | Day 03 | CSS Introduction | ✅ Completed |
 | Day 04 | PHP and MySQL | ✅ Completed |
 | Day 05 | Intergration of PHP and HTML | ✅ Completed |
+| Day 06 | Professional UI Design | ✅ Completed |
