@@ -40,3 +40,5 @@ The repository contains separate Markdown files for each training day, detailing
 | Day 08 | Login page Development | ✅ Completed |
 | Day 09 | Dashboard Development | ✅ Completed |
 | Day 10 | Professional dashboard and responsive | ✅ Completed |
+| Day 11 | Media queries and registeration page responsive | ✅ Completed |
+| Day 12 | Login page responsive and project organisation| ✅ Completed |
