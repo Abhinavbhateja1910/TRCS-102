@@ -46,3 +46,4 @@ The repository contains separate Markdown files for each training day, detailing
 | Day 14 | Project Refactoring and Code organisation | ✅ Completed |
 | Day 15 | Company Foundation Day Celebrations | ✅ Completed |
 | Day 16 | Employee List Page and Database Data Retrieval | ✅ Completed |
+| Day 17 | Implementing Update and Delete Operations | ✅ Completed |
