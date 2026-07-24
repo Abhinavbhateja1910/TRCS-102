@@ -49,3 +49,9 @@ The repository contains separate Markdown files for each training day, detailing
 | Day 17 | Implementing Update and Delete Operations | ✅ Completed |
 | Day 18 | Employee Information Page | ✅ Completed |
 | Day 19 | Implementing Search and Sorting Functionality | ✅ Completed |
+| Day 20 | Task Management Module Implementation | ✅ Completed |
+| Day 21 | Profile Picture Upload and Display Functionality | ✅ Completed |
+| Day 22 | CSV and Excel Import/Export Functionality | ✅ Completed |
+| Day 23 | Light Mode and Dark Mode Implementation | ✅ Completed |
+| Day 24 | Email Notification for Task Assignment | ✅ Completed |
+| Day 25 | Final Testing and Project Deployment | ✅ Completed |
